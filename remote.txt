@@ -1,0 +1,2 @@
+origin  https://github.com/kaitostenroos/git-practice.git (fetch)
+origin  https://github.com/kaitostenroos/git-practice.git (push)
